@@ -67,7 +67,7 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 
 Please read the [contributing guide](.github/contributing.md) for advice on opening issues, pull requests, and coding standards.
 
-<details>
+</details>
 
 <details>
 <summary><strong>Running Tests</strong></summary>
@@ -78,7 +78,7 @@ Running and reviewing unit tests is a great way to get familiarized with a libra
 $ npm install && npm test
 ```
 
-<details>
+</details>
 
 <details>
 <summary><strong>Building docs</strong></summary>
@@ -91,7 +91,7 @@ To generate the readme, run the following command:
 $ npm install -g verbose/verb#dev verb-generate-readme && verb
 ```
 
-<details>
+</details>
 
 ### Related projects
 
