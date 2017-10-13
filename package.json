@@ -1,0 +1,50 @@
+{
+  "name": "code-of-conduct",
+  "description": "Get the path to a Code of Conduct (contributor covenent) file from a local repository.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/code-of-conduct",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/code-of-conduct",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/code-of-conduct/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "matched": "^1.0.2"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^1.0.0",
+    "mocha": "^4.0.1"
+  },
+  "keywords": [
+    "coc",
+    "code",
+    "conduct",
+    "contributor",
+    "contributing",
+    "covenent"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  }
+}
