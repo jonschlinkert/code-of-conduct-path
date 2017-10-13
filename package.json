@@ -1,12 +1,12 @@
 {
-  "name": "code-of-conduct",
+  "name": "code-of-conduct-path",
   "description": "Get the path to the Code of Conduct (contributor covenent) file in a local repository.",
   "version": "0.1.0",
-  "homepage": "https://github.com/jonschlinkert/code-of-conduct",
+  "homepage": "https://github.com/jonschlinkert/code-of-conduct-path",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
-  "repository": "jonschlinkert/code-of-conduct",
+  "repository": "jonschlinkert/code-of-conduct-path",
   "bugs": {
-    "url": "https://github.com/jonschlinkert/code-of-conduct/issues"
+    "url": "https://github.com/jonschlinkert/code-of-conduct-path/issues"
   },
   "license": "MIT",
   "files": [
@@ -30,9 +30,11 @@
     "coc",
     "code",
     "conduct",
-    "contributor",
     "contributing",
-    "covenent"
+    "contributor",
+    "covenent",
+    "of",
+    "path"
   ],
   "verb": {
     "toc": false,
@@ -43,6 +45,13 @@
     "plugins": [
       "gulp-format-md"
     ],
+    "related": {
+      "list": [
+        "gh-clone",
+        "gh-stars",
+        "github-base"
+      ]
+    },
     "lint": {
       "reflinks": true
     }
