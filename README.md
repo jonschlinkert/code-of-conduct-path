@@ -1,6 +1,6 @@
 # code-of-conduct [![NPM version](https://img.shields.io/npm/v/code-of-conduct.svg?style=flat)](https://www.npmjs.com/package/code-of-conduct) [![NPM monthly downloads](https://img.shields.io/npm/dm/code-of-conduct.svg?style=flat)](https://npmjs.org/package/code-of-conduct) [![NPM total downloads](https://img.shields.io/npm/dt/code-of-conduct.svg?style=flat)](https://npmjs.org/package/code-of-conduct) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/code-of-conduct.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/code-of-conduct)
 
-> Get the path to a Code of Conduct (contributor covenent) file from a local repository.
+> Get the path to the Code of Conduct (contributor covenent) file in a local repository.
 
 Please consider starring this project to show your :heart: and support. Follow this project's author, [Jon Schlinkert](https://github.com/jonschlinkert), for updates on this project and others.
 
