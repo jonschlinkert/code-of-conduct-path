@@ -1,7 +1,7 @@
 {
   "name": "code-of-conduct-path",
   "description": "Get the path to the Code of Conduct (contributor covenent) file in a local repository.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/code-of-conduct-path",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/code-of-conduct-path",
